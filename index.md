@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP west delhi
+title: OWASP West Delhi
 tags: example-tag
 level: 4
 
